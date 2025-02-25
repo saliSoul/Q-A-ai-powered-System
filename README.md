@@ -38,7 +38,8 @@ pip install langchain chromadb sentence-transformers transformers rank_bm25 pypd
 💡 Response: NEOV is a rapidly growing consulting firm operating across the African continent, specializing in the insurance and fintech sectors.
 ```
 
-**LIVE DEMO** : YOU CAN FIND THE LIVE DEMO HERE  = https://www.dropbox.com/scl/fi/91ezoblduidxyn2vfb6f1/LIVE-DEMO-QA-SYSTEM.mov?rlkey=9lfj162wgfr6d5r2edr16i814&st=903tau12&dl=0
+**LIVE DEMO** : 
+YOU CAN FIND THE LIVE DEMO HERE  : https://www.dropbox.com/scl/fi/91ezoblduidxyn2vfb6f1/LIVE-DEMO-QA-SYSTEM.mov?rlkey=9lfj162wgfr6d5r2edr16i814&st=903tau12&dl=0
 
 
 📜 Future Improvements
