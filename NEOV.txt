@@ -1,0 +1,73 @@
+Company Overview:
+
+NEOV is a rapidly growing consulting firm operating across the African continent, specializing in the insurance and fintech sectors. The company focuses on artificial intelligence (AI) and business process automation, helping organizations streamline operations and improve efficiency through advanced AI-driven solutions.
+
+Website:
+
+🔗 www.neov.ma
+Industry:
+
+    Outsourcing & Offshoring Consulting
+
+Company Size:
+
+    2-10 employees
+    6 associated members
+
+Core Services:
+
+1. AI-Powered Agents
+
+  NEOV develops intelligent virtual agents capable of:
+  ✅ Automating customer support and document processing
+  ✅ Enhancing business decision-making through advanced natural language processing (NLP)
+  ✅ Providing accurate and efficient responses using machine learning algorithms
+2. Workflow Automation
+
+  NEOV’s automation solutions help businesses:
+  ✅ Optimize internal processes, such as document management and approval workflows
+  ✅ Improve customer onboarding with seamless automation
+  ✅ Reduce human errors and increase processing speed
+3. Data-Driven Decision Making
+
+  NEOV’s AI models analyze business data in real-time to:
+  ✅ Provide actionable insights and recommendations
+  ✅ Optimize business operations with intelligent automation
+  ✅ Ensure scalability and adaptability in dynamic environments
+
+Technology Stack
+🧠 AI & Machine Learning
+
+    Cutting-edge models, including transformers, GPT, and BERT, for advanced AI capabilities
+
+🛠 LangChain Framework
+
+    Used for integrating AI models with external data sources, APIs, and databases for dynamic decision-making
+
+📊 Vector Databases
+
+    FAISS and ChromaDB enable efficient document embedding storage and retrieval
+
+☁️ Cloud Services
+
+    Deployed on AWS, Google Cloud, and Azure for scalability and high availability
+
+Recent Projects :
+
+  1. AI-Powered Legal Bot
+
+   - Automates contract analysis and legal document generation
+   - Helps law firms and legal departments reduce review time
+   - Identifies key legal clauses for better workflow efficiency
+  2. Fraud Detection for Insurance
+
+   - AI models analyze historical data and transaction patterns
+   - Detects fraudulent claims and reduces financial losses
+   - Enhances claims assessment accuracy for insurance companies
+
+Vision & Mission
+
+NEOV's Vision: Transform business operations through AI-driven automation
+NEOV's Mission: Empower businesses with intelligent, scalable, and accessible automation tools
+
+NEOV is committed to revolutionizing industries by integrating AI into core workflows, driving efficiency, and fostering innovation across businesses worldwide.
