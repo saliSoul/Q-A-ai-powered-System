@@ -24,7 +24,7 @@ pip install langchain chromadb sentence-transformers transformers rank_bm25 pypd
 
 
 📂 How It Works
-1. **Upload Documents**: Supports PDF & TXT files.
+1. **Upload Documents**: Supports PDF & TXT files. (Find the sample file NEOV.txt above)
 2. **Process & Index**: Chunks the documents, creates embeddings, and stores them in ChromaDB.
 3. **Ask Questions**: Uses **hybrid retrieval** (BM25 + ChromaDB) to fetch relevant info.
 4. **Generate Answers**: FLAN-T5 generates responses based on retrieved context.
@@ -37,6 +37,8 @@ pip install langchain chromadb sentence-transformers transformers rank_bm25 pypd
 
 💡 Response: NEOV is a rapidly growing consulting firm operating across the African continent, specializing in the insurance and fintech sectors.
 ```
+
+**LIVE DEMO** : YOU CAN FIND THE LIVE DEMO HERE  = https://www.dropbox.com/scl/fi/91ezoblduidxyn2vfb6f1/LIVE-DEMO-QA-SYSTEM.mov?rlkey=9lfj162wgfr6d5r2edr16i814&st=903tau12&dl=0
 
 
 📜 Future Improvements
