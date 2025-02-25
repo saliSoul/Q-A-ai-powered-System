@@ -1,17 +1,17 @@
-#AI-Powered Q&A System
+🚀 **Overview** :
 
-🚀 Overview
+
 This project is a **hybrid Q&A system** that retrieves relevant documents and generates accurate responses using:
 
-**Hybrid Retrieval**: Combines **BM25 (Sparse)** + **ChromaDB (Dense)** for better search
+1. **Hybrid Retrieval**: Combines **BM25 (Sparse)** + **ChromaDB (Dense)** for better search
 
-**Embeddings**: Uses **BAAI/bge-base-en** for high-quality vector representations
+2. **Embeddings**: Uses **BAAI/bge-base-en** for high-quality vector representations
 
-**LLM Answering**: Uses **FLAN-T5-Large** for response generation
+3. **LLM Answering**: Uses **FLAN-T5-Large** for response generation
 
-**Dynamic Chunking**: Adjusts chunk size based on document length
+4. **Dynamic Chunking**: Adjusts chunk size based on document length
 
-**Multi-File Support**: Handles **PDF and TXT** documents
+5. **Multi-File Support**: Handles **PDF and TXT** documents
 
 
 
